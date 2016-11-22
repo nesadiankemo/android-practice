@@ -1,1 +1,1 @@
-include ':app', ':asynctask', ':flashplayertest'
+include ':app', ':asynctask', ':flashplayertest', ':photowall'
